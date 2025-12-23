@@ -1,5 +1,5 @@
 # NYC-Crash-Weather-Data
-Unfinished data set compiling data from a variety of sources to understand correlations between car accidents, use, and weather in NYC.
+Data set compiling data from a variety of sources to understand correlations between car accidents, use, and weather in NYC. I never actually got to properly analyze this data but figured I could publish it since I put a lot of love in to it!
 
 **Data Sources**
 
